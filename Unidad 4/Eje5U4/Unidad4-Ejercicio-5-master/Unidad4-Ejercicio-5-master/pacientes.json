@@ -1,0 +1,65 @@
+{
+    "__class__": "ManejadorPacientes",
+    "pacientes": [
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "Rueda",
+                "nombre": "Melisa",
+                "telefono": "(264)4777222",
+                "altura": "157",
+                "peso": "47"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "L\u00f3pez",
+                "nombre": "Carlos",
+                "telefono": "(261)4888111",
+                "altura": "157",
+                "peso": "67"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "P\u00e9rez",
+                "nombre": "Maira",
+                "telefono": "(264)5111222",
+                "altura": "158",
+                "peso": "60"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "Altamirano",
+                "nombre": "Sandra",
+                "telefono": "(263)6478912",
+                "altura": "165",
+                "peso": "62"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "Artime",
+                "nombre": "Luis",
+                "telefono": "(264)4558699",
+                "altura": "170",
+                "peso": "70"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "Jofr\u00e9",
+                "nombre": "Santiago",
+                "telefono": "(264)5028214",
+                "altura": "178",
+                "peso": "78"
+            }
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "__class__": "ManejadorProvincias",
+    "provincias": [
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Buenos Aires",
+                "capital": "La Plata",
+                "cant_habitantes": "17.541.141",
+                "cant_departamentos": "135"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Catamarca",
+                "capital": "Catamarca",
+                "cant_habitantes": "415.438",
+                "cant_departamentos": "16"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Chaco",
+                "capital": "Resistencia",
+                "cant_habitantes": "1.204.541",
+                "cant_departamentos": "25"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Chubut",
+                "capital": "Rawson",
+                "cant_habitantes": "618.994",
+                "cant_departamentos": "15"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "C\u00f3rdoba",
+                "capital": "C\u00f3rdoba",
+                "cant_habitantes": "3.760.450",
+                "cant_departamentos": "26"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Corrientes",
+                "capital": "Corrientes",
+                "cant_habitantes": "1.120.801",
+                "cant_departamentos": "25"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Entre R\u00edos",
+                "capital": "Paran\u00e1",
+                "cant_habitantes": "1.385.961",
+                "cant_departamentos": "17"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Formosa",
+                "capital": "Formosa",
+                "cant_habitantes": "605.193",
+                "cant_departamentos": "9"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Jujuy",
+                "capital": "San Salvador de Jujuy",
+                "cant_habitantes": "770.881",
+                "cant_departamentos": "16"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "La Pampa",
+                "capital": "Santa Rosa",
+                "cant_habitantes": "358.428",
+                "cant_departamentos": "22"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "La Rioja",
+                "capital": "La Rioja",
+                "cant_habitantes": "393.531",
+                "cant_departamentos": "18"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Mendoza",
+                "capital": "Mendoza",
+                "cant_habitantes": "1.990.338",
+                "cant_departamentos": "18"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Misiones",
+                "capital": "Posadas",
+                "cant_habitantes": "1.261.294",
+                "cant_departamentos": "17"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Neuqu\u00e9n",
+                "capital": "Neuqu\u00e9n",
+                "cant_habitantes": "664.057",
+                "cant_departamentos": "16"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "R\u00edo Negro",
+                "capital": "Viedma",
+                "cant_habitantes": "747.610",
+                "cant_departamentos": "13"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Salta",
+                "capital": "Salta",
+                "cant_habitantes": "1.424.397",
+                "cant_departamentos": "23"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "San Juan",
+                "capital": "San Juan",
+                "cant_habitantes": "738.959",
+                "cant_departamentos": "19"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "San Luis",
+                "capital": "San Luis",
+                "cant_habitantes": "508.328",
+                "cant_departamentos": "9"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Santa Cruz",
+                "capital": "R\u00edo Gallegos",
+                "cant_habitantes": "365.698",
+                "cant_departamentos": "7"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Santa Fe",
+                "capital": "Santa Fe",
+                "cant_habitantes": "3.536.418",
+                "cant_departamentos": "19"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Santiago del Estero",
+                "capital": "Santiago del Estero",
+                "cant_habitantes": "173.432",
+                "cant_departamentos": "27"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Tierra del Fuego",
+                "capital": "173.432",
+                "cant_habitantes": "Ushuaia",
+                "cant_departamentos": "4"
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Tucum\u00e1n",
+                "capital": "San Miguel de Tucum\u00e1n",
+                "cant_habitantes": "1.694.656",
+                "cant_departamentos": "17"
+            }
+        }
+    ]
+}
