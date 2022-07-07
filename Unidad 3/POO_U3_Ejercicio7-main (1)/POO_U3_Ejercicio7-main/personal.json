@@ -1,0 +1,508 @@
+[
+    {
+        "clase": "Investigador",
+        "atributos": {
+            "cuil": "14-34176437-4",
+            "apellido": "Acosta",
+            "nombre": "Manuel",
+            "basico": 39000,
+            "antiguedad": 2,
+            "area": "Simulacion",
+            "tipo": "CONICET"
+        }
+    },
+    {
+        "clase": "Investigador",
+        "atributos": {
+            "cuil": "20-33545827-8",
+            "apellido": "Albareti",
+            "nombre": "Santiago",
+            "basico": 40000,
+            "antiguedad": 1,
+            "area": "Algoritmos",
+            "tipo": "Doctorado"
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "19-22044477-5",
+            "apellido": "Castillo",
+            "nombre": "Cristina",
+            "basico": 46368,
+            "antiguedad": 5,
+            "carrera": "LCC",
+            "cargo": "simple",
+            "catedra": "Compiladores",
+            "area": "Lenguajes",
+            "tipo": "Interna",
+            "categoria": "III",
+            "extra": 11345
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "14-28950982-7",
+            "apellido": "Cortes",
+            "nombre": "Marta",
+            "basico": 46206,
+            "antiguedad": 13,
+            "carrera": "LSI",
+            "cargo": "exclusivo",
+            "catedra": "An\u00e1lisis Matem\u00e1tico",
+            "area": "Matem\u00e1tica",
+            "tipo": "Interna",
+            "categoria": "IV",
+            "extra": 40471
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "10-37554123-8",
+            "apellido": "Di Pane",
+            "nombre": "Miguel Angel",
+            "basico": 45000,
+            "antiguedad": 4,
+            "carrera": "LCC",
+            "cargo": "simple",
+            "catedra": "Inteligencia Artificial",
+            "area": "Redes Neuronales",
+            "tipo": "CONICET",
+            "categoria": "V",
+            "extra": 15000
+        }
+    },
+    {
+        "clase": "Docente",
+        "atributos": {
+            "cuil": "20-08490848-8",
+            "apellido": "Dominguez",
+            "nombre": "Carla",
+            "basico": 30000,
+            "antiguedad": 5,
+            "carrera": "LCC",
+            "cargo": "simple",
+            "catedra": "Matematica Discreta"
+        }
+    },
+    {
+        "clase": "Docente",
+        "atributos": {
+            "cuil": "20-33545827-8",
+            "apellido": "Fernandez",
+            "nombre": "Pedro",
+            "basico": 40000,
+            "antiguedad": 10,
+            "carrera": "LSI",
+            "cargo": "exclusivo",
+            "catedra": "Algebra"
+        }
+    },
+    {
+        "clase": "Docente",
+        "atributos": {
+            "cuil": "21-24285470-3",
+            "apellido": "Ferrer",
+            "nombre": "Susana",
+            "basico": 36116,
+            "antiguedad": 2,
+            "carrera": "LSI",
+            "cargo": "exclusivo",
+            "catedra": "An\u00e1lisis Matem\u00e1tico"
+        }
+    },
+    {
+        "clase": "Investigador",
+        "atributos": {
+            "cuil": "10-13757876-2",
+            "apellido": "Funes",
+            "nombre": "Beatriz",
+            "basico": 55000,
+            "antiguedad": 7,
+            "area": "Redes Neuronales",
+            "tipo": "CONICET"
+        }
+    },
+    {
+        "clase": "Investigador",
+        "atributos": {
+            "cuil": "15-15634765-3",
+            "apellido": "Garcia",
+            "nombre": "Silvia",
+            "basico": 35000,
+            "antiguedad": 4,
+            "area": "Sistemas",
+            "tipo": "CONICET"
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "20-18670135-3",
+            "apellido": "Garrido",
+            "nombre": "Dolores",
+            "basico": 54088,
+            "antiguedad": 8,
+            "carrera": "LCC",
+            "cargo": "semiexclusivo",
+            "catedra": "Algoritmos Num\u00e9ricos",
+            "area": "Estad\u00edstica",
+            "tipo": "CONICET",
+            "categoria": "V",
+            "extra": 17547
+        }
+    },
+    {
+        "clase": "Docente",
+        "atributos": {
+            "cuil": "16-32370136-6",
+            "apellido": "Gim\u00e9nez",
+            "nombre": "Angela",
+            "basico": 41451,
+            "antiguedad": 2,
+            "carrera": "LCC",
+            "cargo": "simple",
+            "catedra": "Compiladores"
+        }
+    },
+    {
+        "clase": "Docente",
+        "atributos": {
+            "cuil": "20-23821474-8",
+            "apellido": "Gomez",
+            "nombre": "Enzo",
+            "basico": 30000,
+            "antiguedad": 2,
+            "carrera": "TUPW",
+            "cargo": "semiexclusivo",
+            "catedra": "Dise\u00f1o web I"
+        }
+    },
+    {
+        "clase": "Docente",
+        "atributos": {
+            "cuil": "12-22508009-2",
+            "apellido": "Herrero",
+            "nombre": "Julia",
+            "basico": 59727,
+            "antiguedad": 6,
+            "carrera": "LSI",
+            "cargo": "exclusivo",
+            "catedra": "Programaci\u00f3n Procedural"
+        }
+    },
+    {
+        "clase": "Docente",
+        "atributos": {
+            "cuil": "18-30922983-3",
+            "apellido": "Hidalgo",
+            "nombre": "M\u00f3nica",
+            "basico": 33608,
+            "antiguedad": 15,
+            "carrera": "TUPW",
+            "cargo": "semiexclusivo",
+            "catedra": "Redes"
+        }
+    },
+    {
+        "clase": "PersonalApoyo",
+        "atributos": {
+            "cuil": "12-34905123-9",
+            "apellido": "Huerta",
+            "nombre": "Fabio",
+            "basico": 30000,
+            "antiguedad": 6,
+            "categoria": 21
+        }
+    },
+    {
+        "clase": "PersonalApoyo",
+        "atributos": {
+            "cuil": "12-34710562-8",
+            "apellido": "Ibarra",
+            "nombre": "Gustavo",
+            "basico": 23900,
+            "antiguedad": 3,
+            "categoria": 12
+        }
+    },
+    {
+        "clase": "Docente",
+        "atributos": {
+            "cuil": "11-21276261-5",
+            "apellido": "Ib\u00e1\u00f1ez",
+            "nombre": "Rocio",
+            "basico": 26884,
+            "antiguedad": 14,
+            "carrera": "TUPW",
+            "cargo": "exclusivo",
+            "catedra": "Matem\u00e1tica Discreta"
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "14-23164028-8",
+            "apellido": "Iglesias",
+            "nombre": "Francisco",
+            "basico": 43456,
+            "antiguedad": 11,
+            "carrera": "LCC",
+            "cargo": "simple",
+            "catedra": "Base de Datos",
+            "area": "Datos",
+            "tipo": "Interna",
+            "categoria": "III",
+            "extra": 21560
+        }
+    },
+    {
+        "clase": "Docente",
+        "atributos": {
+            "cuil": "12-32890345-7",
+            "apellido": "Lopez",
+            "nombre": "Fernando",
+            "basico": 34000,
+            "antiguedad": 4,
+            "carrera": "TUPW",
+            "cargo": "exclusivo",
+            "catedra": "Programaci\u00f3n Web II"
+        }
+    },
+    {
+        "clase": "Docente",
+        "atributos": {
+            "cuil": "23-23649870-9",
+            "apellido": "Lorenzo",
+            "nombre": "Irene",
+            "basico": 44875,
+            "antiguedad": 19,
+            "carrera": "LSI",
+            "cargo": "simple",
+            "catedra": "Programaci\u00f3n Procedural"
+        }
+    },
+    {
+        "clase": "Investigador",
+        "atributos": {
+            "cuil": "12-12764598-5",
+            "apellido": "Maldonado",
+            "nombre": "Pablo",
+            "basico": 38500,
+            "antiguedad": 3,
+            "area": "Simulacion",
+            "tipo": "CONICET"
+        }
+    },
+    {
+        "clase": "Investigador",
+        "atributos": {
+            "cuil": "20-35311341-8",
+            "apellido": "Martinez",
+            "nombre": "Camila",
+            "basico": 40000,
+            "antiguedad": 3,
+            "area": "Bases de datos",
+            "tipo": "Becario"
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "34-28430453-1",
+            "apellido": "Medina",
+            "nombre": "Antonio",
+            "basico": 52573,
+            "antiguedad": 9,
+            "carrera": "LCC",
+            "cargo": "semiexclusivo",
+            "catedra": "Redes",
+            "area": "Sistemas",
+            "tipo": "CONICET",
+            "categoria": "IV",
+            "extra": 28241
+        }
+    },
+    {
+        "clase": "Docente",
+        "atributos": {
+            "cuil": "45-19286625-1",
+            "apellido": "Montero",
+            "nombre": "Andrea",
+            "basico": 37891,
+            "antiguedad": 6,
+            "carrera": "TUPW",
+            "cargo": "semiexclusivo",
+            "catedra": "Ingl\u00e9s I"
+        }
+    },
+    {
+        "clase": "PersonalApoyo",
+        "atributos": {
+            "cuil": "23-23765234-3",
+            "apellido": "Mora",
+            "nombre": "Joaquin",
+            "basico": 15000,
+            "antiguedad": 4,
+            "categoria": 8
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "10-20046541-2",
+            "apellido": "Nu\u00f1ez",
+            "nombre": "Laura",
+            "basico": 42974,
+            "antiguedad": 15,
+            "carrera": "LCC",
+            "cargo": "semiexclusivo",
+            "catedra": "Sistemas de Informaci\u00f3n",
+            "area": "Sistemas",
+            "tipo": "CONICET",
+            "categoria": "II",
+            "extra": 20798
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "10-23674345-1",
+            "apellido": "Peralta",
+            "nombre": "Lucas",
+            "basico": 40000,
+            "antiguedad": 6,
+            "carrera": "LSI",
+            "cargo": "exclusivo",
+            "catedra": "Ingenieria de Software I",
+            "area": "Redes Neuronales",
+            "tipo": "CONICET",
+            "categoria": "II",
+            "extra": 15000
+        }
+    },
+    {
+        "clase": "Docente",
+        "atributos": {
+            "cuil": "13-34765187-3",
+            "apellido": "Perez",
+            "nombre": "Maria",
+            "basico": 35000,
+            "antiguedad": 2,
+            "carrera": "TUPW",
+            "cargo": "semiexclusivo",
+            "catedra": "Dise\u00f1o Web II"
+        }
+    },
+    {
+        "clase": "Investigador",
+        "atributos": {
+            "cuil": "14-16784854-9",
+            "apellido": "Rojas",
+            "nombre": "Matias",
+            "basico": 46300,
+            "antiguedad": 5,
+            "area": "Redes Neuronales",
+            "tipo": "CONICET"
+        }
+    },
+    {
+        "clase": "Docente",
+        "atributos": {
+            "cuil": "15-15323801-1",
+            "apellido": "Santana",
+            "nombre": "Patricia",
+            "basico": 26473,
+            "antiguedad": 1,
+            "carrera": "LSI",
+            "cargo": "semiexclusivo",
+            "catedra": "Teor\u00eda de las Organizaciones"
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "17-28663736-2",
+            "apellido": "Santos",
+            "nombre": "Maria Angeles",
+            "basico": 50293,
+            "antiguedad": 1,
+            "carrera": "LCC",
+            "cargo": "exclusivo",
+            "catedra": "Inteligencia Artificial",
+            "area": "Redes Neuronales",
+            "tipo": "Interna",
+            "categoria": "V",
+            "extra": 32050
+        }
+    },
+    {
+        "clase": "PersonalApoyo",
+        "atributos": {
+            "cuil": "15-11905678-3",
+            "apellido": "Soto",
+            "nombre": "Ismael",
+            "basico": 34600,
+            "antiguedad": 3,
+            "categoria": 1
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "23-12640045-3",
+            "apellido": "Vera",
+            "nombre": "Claudio",
+            "basico": 60000,
+            "antiguedad": 10,
+            "carrera": "LCC",
+            "cargo": "exclusivo",
+            "catedra": "Sistemas Distribuidos",
+            "area": "Sistemas",
+            "tipo": "Interno",
+            "categoria": "V",
+            "extra": 24000
+        }
+    },
+    {
+        "clase": "PersonalApoyo",
+        "atributos": {
+            "cuil": "12-37680341-5",
+            "apellido": "Villareal",
+            "nombre": "Luciano",
+            "basico": 34000,
+            "antiguedad": 7,
+            "categoria": 9
+        }
+    },
+    {
+        "clase": "DocenteInvestigador",
+        "atributos": {
+            "cuil": "13-45643200-4",
+            "apellido": "Villarreal",
+            "nombre": "Victor",
+            "basico": 37136,
+            "antiguedad": 4,
+            "carrera": "TUPW",
+            "cargo": "exclusivo",
+            "catedra": "Dise\u00f1o Web II",
+            "area": "Dise\u00f1o",
+            "tipo": "Interna",
+            "categoria": "I",
+            "extra": 27280
+        }
+    },
+    {
+        "clase": "PersonalApoyo",
+        "atributos": {
+            "cuil": "20-34740657-7",
+            "apellido": "Zabal",
+            "nombre": "Mariana",
+            "basico": 36000,
+            "antiguedad": 4,
+            "categoria": 21
+        }
+    }
+]
